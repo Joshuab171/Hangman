@@ -1,1 +1,1 @@
-# JoshuaBurrows-node.js-hangman
+# hangman
